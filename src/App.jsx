@@ -6,6 +6,51 @@ const App = () => {
     <div>
       <Navbar/> 
     </div>
+    <div>
+      <Navbar/> 
+    </div>
+    <div>
+      <Navbar/> 
+    </div>
+    <div>
+      <Navbar/> 
+    </div>
+    <div>
+      <Navbar/> 
+    </div>
+    <div>
+      <Navbar/> 
+    </div>
+    <div>
+      <Navbar/> 
+    </div>
+    <div>
+      <Navbar/> 
+    </div>
+    <div>
+      <Navbar/> 
+    </div>
+    <div>
+      <Navbar/> 
+    </div>
+    <div>
+      <Navbar/> 
+    </div>
+    <div>
+      <Navbar/> 
+    </div>
+    <div>
+      <Navbar/> 
+    </div>
+    <div>
+      <Navbar/> 
+    </div>
+    <div>
+      <Navbar/> 
+    </div>
+    <div>
+      <Navbar/> 
+    </div>
   )
 }
 
